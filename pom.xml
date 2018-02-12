@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.coviam</groupId>
-	<artifactId>payment</artifactId>
+	<artifactId>paymentModule</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>payment</name>
-	<description>paymentService for coviam</description>
+	<name>payment Module</name>
+	<description>paymentService for tiket</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
